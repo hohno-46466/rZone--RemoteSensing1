@@ -8,7 +8,7 @@ Examples:
 
 * https://www.switch-science.com/catalog/6726/
 * https://drive.google.com/file/d/14Jg8LPF2fG9bfNT8qb6fgsKFYBCOuHhy/view
-* https://drive.google.com/drive/folders/1Ib54mnCSxEleeLSwUtSPLilcFZ--zytdk
+* https://drive.google.com/drive/folders/1Ib54mnCSxEleeLSwUtSPLilcFZ--zytd
 * M5STACK-WeatherServerSample-20210731T041723Z-001
 
 (2) Sample code for ESP32-A3-Weather*
