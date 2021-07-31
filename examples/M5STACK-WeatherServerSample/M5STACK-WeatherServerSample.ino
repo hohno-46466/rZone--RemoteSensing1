@@ -1,5 +1,8 @@
 /*
- * See also: https://drive.google.com/drive/folders/1Ib54mnCSxEleeLSwUtSPLilcFZ--zytdk
+ * See Also:
+ * https://www.switch-science.com/catalog/6726/
+ * https://drive.google.com/file/d/14Jg8LPF2fG9bfNT8qb6fgsKFYBCOuHhy/view
+ * https://drive.google.com/drive/folders/1Ib54mnCSxEleeLSwUtSPLilcFZ--zytd
  */
 
 /*----------------------------------------------

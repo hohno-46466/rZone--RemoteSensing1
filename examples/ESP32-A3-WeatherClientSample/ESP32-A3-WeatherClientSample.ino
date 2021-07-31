@@ -32,7 +32,8 @@
 const char* udp_ssid = "WEATHERSERVERDEMO";
 const char* udp_pass = "weather123456";
 
-const char * to_udp_address = "192.168.42.1";    //送信先のIPアドレス (UDPサーバー側に合わせる 192.168.XXX.XXX)
+// const char * to_udp_address = "192.168.42.1";    //送信先のIPアドレス (UDPサーバー側に合わせる 192.168.XXX.XXX)
+const char * to_udp_address = "192.168.59.177";    //送信先のIPアドレス (UDPサーバー側に合わせる 192.168.XXX.XXX)
 const int to_udp_port = 50100;                   //送信相手のポート番号(支障ないポート番号 49152–65535)　
 
 byte setupBME280();
