@@ -29,11 +29,17 @@
 #define DEEPTIME    600     // Deep Timer 10min (sec)
 #define DELIMITCODE 0x0a    // Delimit Code
 
+#define USE_SECRET_FILE
+
+#ifdef USE_SECRET_FILE
+#include "./secret.h"
+#else
 const char* udp_ssid = "WEATHERSERVERDEMO";
 const char* udp_pass = "weather123456";
+#endif // USE_SECRET_FILE
 
 // const char * to_udp_address = "192.168.42.1";    //送信先のIPアドレス (UDPサーバー側に合わせる 192.168.XXX.XXX)
-const char * to_udp_address = "192.168.59.177";    //送信先のIPアドレス (UDPサーバー側に合わせる 192.168.XXX.XXX)
+const char * to_udp_address = "192.168.59.27";    //送信先のIPアドレス (UDPサーバー側に合わせる 192.168.XXX.XXX)
 const int to_udp_port = 50100;                   //送信相手のポート番号(支障ないポート番号 49152–65535)　
 
 byte setupBME280();
@@ -67,6 +73,10 @@ void setup() {
     digitalWrite(LEDPIN,HIGH);
     Wire.begin(21,22,10000);
     sensor_enable = setupBME280();
+		for (int i = 0; i < 10; i++) {
+			Serial.print("Hello "); Serial.println(millis());
+			delay(500);
+		}
 }
 
 
