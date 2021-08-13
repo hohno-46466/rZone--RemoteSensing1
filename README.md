@@ -18,4 +18,6 @@ Examples:
 * https://drive.google.com/drive/folders/1Ib54mnCSxEleeLSwUtSPLilcFZ--zytd
 * M5STACK-WeatherServerSample-20210731T041723Z-001
 
+Note: 	url = https://github.com/hohno-46466/rZone--RemoteSensingSystem1
+
 -EOF-
