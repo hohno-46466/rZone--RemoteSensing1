@@ -1,4 +1,4 @@
-# GitHub/rZone--RemoteSensingSystem1
+# GitHub/rZone--misc--RemoteSensingSystem1
 
 hohno's Remote Sensing System Type1 (minimal)
 
@@ -18,8 +18,8 @@ Examples:
 * https://drive.google.com/drive/folders/1Ib54mnCSxEleeLSwUtSPLilcFZ--zytd
 * M5STACK-WeatherServerSample-20210731T041723Z-001
 
-Note: 	url = https://github.com/hohno-46466/rZone--RemoteSensingSystem1
+Note: 	url = https://github.com/hohno-46466/rZone--misc--RemoteSensingSystem1
 
-Note:   url = git@github.com:hohno-46466/rZone--RemoteSensingSystem1.git
+Note:   url = git@github.com:hohno-46466/rZone--misc--RemoteSensingSystem1.git
 
 -EOF-
