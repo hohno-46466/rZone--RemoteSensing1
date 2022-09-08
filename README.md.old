@@ -41,7 +41,7 @@ Note: URL = git@github.com:hohno-46466/rZone--misc--RemoteSensingSystem1.git
          │   └──  README.md
          └──  README.md
      
-     7 directories, 10 files (Sun Aug 28 21:29:43 JST 2022)
+     7 directories, 10 files (Mon Sep  5 19:33:10 JST 2022)
 
 
 hohno's Remote Sensing System Type1 (minimal)
